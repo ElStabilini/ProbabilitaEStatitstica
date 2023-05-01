@@ -5,7 +5,7 @@ All’interno della repository sono caricati gli esercizi svolti in preparazione
 
 All’interno della repository sono presenti diverse sottocartelle:
 
-1. all’interno della sottocartella **data** sono caricati tutti I dati necessari allo svolgimento degli esercizi presenti sui notebook
+1. all’interno della sottocartella "data" sono caricati tutti I dati necessari allo svolgimento degli esercizi presenti sui notebook
 
 2. Una cartella contenente I diversi notebook svolti (alcunui solo parzialmente)
 
